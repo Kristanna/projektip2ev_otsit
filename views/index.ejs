@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find It</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+
+    <div class="header">
+        <a href="#default" class="logo"><img src="unnamed.jpg"></a>
+        <div class="header-right">
+            <a class="Home" href="#home">Kodu</a>
+            <a href="#data_adder">Sisestaja</a>
+            <a href="#finder">Otsija</a>
+        </div>
+    </div>
+
+    <div>
+        <form action="/add-item" method="POST">
+            <label for="productImage">Pilt:</label>
+            <input type="text" id="productImage" name="productImage" required>
+            <br><br>
+
+            <label for="productName">Nimi:</label>
+            <input type="text" id="productName" name="productName" required>
+            <br><br>
+
+            <label for="productPrice">Hind:</label>
+            <input type="text" id="productPrice" name="productPrice" required>
+            <br><br>
+
+            <label for="productQuantity">Kogus:</label>
+            <input type="number" id="productQuantity" min=1 name="productQuantity" required>
+            <br><br>
+
+            <label for="productLocation">Asukoht poes/laos:</label>
+            <select id="productLocation" name="productLocation">
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+            </select>
+            <br><br>
+
+            <button type="submit">Lisa</button>
+        </form>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Pilt</th>
+                <th>Nimi</th>
+                <th>Hind</th>
+                <th>Kogus</th>
+                <th>Asukoht poes/laos</th>
+            </tr>
+        </thead>
+        <tbody id="data-output">
+            <!-- js faili tooted/products siia -->
+        </tbody>
+    </table>
+
+    <script src="index.js"></script>
+
+</html>
