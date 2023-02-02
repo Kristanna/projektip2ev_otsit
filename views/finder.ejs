@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Otsija</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -18,7 +18,8 @@
     </div>
 
     <div>
-        <form action="/find" method="POST">
+        <!-- Otsi nuppu vajatades tehakse POST /finder endpointi, name="productName" pannakse POSTI'ga kaasa -->
+        <form action="/finder" method="POST">
 
             <label for="productName">Toote nimi:</label>
             <input type="text" id="productName" name="productName" required>
@@ -28,6 +29,28 @@
             <button type="submit">Otsi</button>
         </form>
     </div>
-   
+    <table>
+        <thead>
+            <tr>
+                <th>Pilt</th>
+                <th>Nimi</th>
+                <th>Hind</th>
+                <th>Kogus</th>
+                <th>Asukoht poes/laos</th>
+            </tr>
+        </thead>
+        <tbody id="data-output">
+            <% for (let product of found) { %>
+            <tr>
+                <td> <img src='<%= product.image %>'> </td>
+                <td><%= product.name %></td>
+                <td><%= product.price %></td>
+                <td><%= product.inventory %></td>
+                <td><%= product.productCode %></td>
+            </tr>
+            <% } %>
+
+        </tbody>
+    </table>
 </body>
 </html>

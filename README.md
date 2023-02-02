@@ -138,9 +138,9 @@ Alex Salong
 
 Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi protsessi jaotamist ajaliselt. Tulevikuprojektides oskan analüüsi teostada struktureeritumalt ja seetõttu ka tõhusamalt nii ajalises kui kvalitatiivses mõttes. 
 
-Kristiina Kudritskaja
+Kristiina Kudritskaja github linkedin
 
-Selles projektis õppisin rohkem tiimitööd tegema ja andmebaasi. Õppisin põhjalikumalt issues-i kirjutama. Õppisin ka uusi website kasutama, mis tegid töö lihtsamaks.
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
 
 Liselle Unnam
 

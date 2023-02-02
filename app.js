@@ -30,8 +30,33 @@ app.get('/', (req, res) => {
 });
 
 app.get('/finder', (req, res) => {
-    // renders views/index.ejs
-    res.render('finder');
+    console.log("get /finder");
+    res.render('finder', { found: [] });
+});
+
+app.post('/finder', (req, res) => {
+    console.log("post /finder");
+
+    let item = req.body
+    console.log(item);
+
+    const jsonString = fs.readFileSync("public/products.json");
+    var products = JSON.parse(jsonString);
+
+    var found_products = [];
+    for (let product of products) {
+        //console.log(product);
+        if (product.name.includes(item.productName)) {
+            console.log(product);
+            found_products.push(product);
+        }
+    }
+
+    // Siin tehakse variable `found`, mille sees on kõik leitud tooted.
+    // Neid andmeid kasutatakse finder.ejs sees, et kasutajale genereerida tabel toodetega.
+    // finder.ejs on html siis pandud JS koodi, mis seda genereerimist teeb.
+    // vaata kuidas `<table>` asjad finder.ejs sees v2lja n2evad
+    res.render('finder', { found: found_products });
 });
 
 app.get('/home', (req, res) => {
