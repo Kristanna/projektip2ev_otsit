@@ -26,12 +26,22 @@ app.use(express.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
     // renders views/index.ejs
-    res.render('index', { title: 'Home' });
+    res.redirect('/home');
 });
 
 app.get('/finder', (req, res) => {
     // renders views/index.ejs
     res.render('finder');
+});
+
+app.get('/home', (req, res) => {
+    // renders views/index.ejs
+    res.render('home');
+});
+
+app.get('/filler', (req, res) => {
+    // renders views/index.ejs
+    res.render('filler');
 });
 
 
