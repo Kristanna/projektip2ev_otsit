@@ -1,3 +1,15 @@
+.header {
+	text-align: center;
+	width: 100%;
+	height: auto;
+	position: relative;
+	overflow: hidden;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	background: linear-gradient(to bottom, white, rgb(153, 238, 248));
+	
+}
+
 form {
 	display: flex;
 	flex-direction: column;
