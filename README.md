@@ -100,6 +100,10 @@ Selles projektis ma õppisin palju uut. Õppisin ka kasutama uusi programme mida
 
 [Olev Kuris](github.com/olevkuris/)
 
-Õppisin  github bashi ja figmat. Sain palju teadmisi juurde.
+Õppisin Node.js-i  github bashi ja figmat. Sain palju teadmisi juurde.
+
+## Lingid
+-
+
 
 
