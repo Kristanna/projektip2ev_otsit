@@ -110,7 +110,7 @@ app.post('/add-item', (req, res) => {
     fs.writeFileSync("public/products.json", jsonNewString);
 
     // go back to index.ejs
-    res.redirect('/');
+    res.redirect('/filler');
 });
 
 // 404 page

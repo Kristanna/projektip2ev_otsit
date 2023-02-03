@@ -6,7 +6,7 @@
 	overflow: hidden;
 	margin-top: 10px;
 	margin-bottom: 15px;
-	background: linear-gradient(to bottom, white, rgb(153, 238, 248));
+	background: linear-gradient(to bottom, white, rgb(196, 248, 153));
 	
 }
 
@@ -42,7 +42,7 @@ select {
 button[type="submit"] {
 	width: 80px;
 	height: 30px;
-	background-color: #6f79d3;
+	background-color: #669763;
 	color: white;
 	border: none;
 	border-radius: 5px;
@@ -69,17 +69,17 @@ table {
 
 table th {
 	padding: 10px 0;
-	background-color: #cbbec8;
+	background-color: #c2e6a6;
 	/* background-color: #fff; */
-	border: thin solid #3708e4;
+	border: thin solid #354033;
 }
 
 table td {
 	padding: 10px;
-	border: thin solid #20c5ef;
+	border: thin solid #141a1b;
 	width: 20%;
 	text-align: center;
-	background-color: rgb(236, 229, 244);
+	background-color: rgb(238, 244, 240);
 }
 
 table td.total-price {
@@ -89,21 +89,21 @@ table td.total-price {
 
 table a {
 	text-decoration: none;
-	color: rgb(94, 170, 114);
-	background-color: #b6707b;
+	color: rgb(158, 223, 176);
+	background-color: #d4f8d0;
 	padding: 10px 15px;
 }
 
 table a:active {
 	background-color: #ccf4d6;
-	color: green;
+	color: rgb(181, 244, 181);
 }
 
 table select {
 	padding: 10px;
 	width: 200px;
 	font-size: 16px;
-	border: thin solid #d4d4d4;
+	border: thin solid #e2f2e0;
 	background-color: transparent;
 }
 

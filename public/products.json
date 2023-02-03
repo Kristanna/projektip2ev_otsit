@@ -1,21 +1,5 @@
 [
 	{
-		"id": 1,
-		"image": "https://ksd-images.lt/display/aikido/cache/d51e6c93d6dd999438671736759694cc.jpeg?&op=fit&w=748&h=540",
-		"name": "tomat",
-		"price": "1",
-		"inventory": "589",
-		"productCode": "A"
-	},
-	{
-		"id": 2,
-		"image": "https://ksd-images.lt/display/aikido/store/8188f15909a8630c46ceecb6ff20271c.jpg?&op=fit&w=748&h=540",
-		"name": "tomat",
-		"price": "2",
-		"inventory": "379",
-		"productCode": "A"
-	},
-	{
 		"id": 3,
 		"image": "https://ksd-images.lt/display/aikido/store/6781bdb63e7a14ec22af016d449ac8e6.jpg?&op=fit&w=748&h=540",
 		"name": "tomat",
@@ -36,6 +20,14 @@
 		"image": "https://ksd-images.lt/display/aikido/store/b66a4454de431e939b5052cd7ed4dc7e.jpg",
 		"name": "vann",
 		"price": "490",
+		"inventory": "2",
+		"productCode": "D"
+	},
+	{
+		"id": 6,
+		"image": "https://ksd-images.lt/display/aikido/cache/ece6b49cff771d686a0c8c3f45eef916.jpeg?&op=fit&w=748&h=540",
+		"name": "vann",
+		"price": "1800",
 		"inventory": "2",
 		"productCode": "D"
 	}
