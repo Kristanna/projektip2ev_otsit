@@ -30,7 +30,7 @@
 
 ### Reede - Lõpulihv
 
-- 9.00 - Hommikukohvi ja koosolek - andmemudel, andmebaasi mudel, wireframe
+- 9.00 - Hommikukohvi ja koosolek - andmemudel
 - 9.30 - GitLabi seadistamine, issuede tegemine
 - 11.45 - Lõuna
 - 12.45 - Esitlused
@@ -65,27 +65,12 @@
 - Adminina ma tahan kasutajatele õigusi anda ja neid muuta
 - Siis ma saan neid eemaldada kui vaja või õigusi anda
 
-### Varjupaiga haldaja
+### Haldaja
 - Saan teha samu asju mis töötaja
 - Saan anda ja võtta töötajalt õigused
 - Saan online nõustada töötajaid ja looma võtnud inimesi
 
-### Varjupaiga töötaja
-
-- Olles varjupaiga töötaja, saan postitada pilte ja lugusid loomadest kes otsib endale kodu, sest siis on suurem võimalus loomal leida enda õige kodu
-- Olles varjupaiga töötaja, saan kirjutada igast loomast loo mis moodi ta on sattunud varjupaika
-- Olles varjupaiga töötaja, saan postitada pilte loomadest kes on leidnud endale kodu
-- Olles varjupaiga töötaja, saan postitada lugusid lahkunud loomadest
-- Olles varjupaiga töötaja, saan postitada lugusid loomadest keda on väärkoheldud, et inimestele panna südamele mida tähendab endale looma võtmine
-- Olles varjupaiga töötaja, saan postitada lugusid loomadest keda on maha jäetud või hüljatud inimeste poolt, et inimestele panna südamele mida tähendab endale looma võtmine
-- Olles varjupaiga töötaja, saan käia vaatamas looma kes on võtud, et olla kindel selles, et loom oleks kindlates kätes
-- Olles varjupaiga töötaja, saan annetuste eest loomadele ise asju tellida või osta
-- Olles varjupaiga töötaja, saan ära tuua loomi kes vajavad abi üle eestiliselt
-- Olles varjupaiga töötaja, saan ära tuua loomikes vajavad abi naaberriikides
-- Olles varjupaiga töötaja, saan kustutada loomadest pilte
-- Olles varjupaiga töötaja, saan kustutada loomadest lugusi
-- Olles varjupaiga töötaja, saan võtta ühendust looma võtnud inimestega
-- Olles varjupaiga töötaja, saan pakkuda varjupaiga loomadele transporti ühest linnast teise, kui loomal on vaja meditsiinilistabi mida ei ole eelnevas linnas olemas 
+ 
 
 ### Sisselogitud kasutaja
 - Registreeritud kasutajana soovin, et mul oleks lihtne juurdepääs annetustele, et saaksin tasuta asju kinkida
@@ -122,13 +107,13 @@
 
 ## Kasutatud tööriistad <a name="tools"></a>
 
-Projektihaldus: Linear, GitHub
+Projektihaldus:  GitHub
 
-Kommunikatsioon: Slack, häälepaelad
+Kommunikatsioon: Slack, Microsoft Teams, häälepaelad
 
-Märkmed: GitHub, VS Code, Notes, notes.io, paber&pastakas, tahvel
+Märkmed: GitHub, VS Code, Notes,  paber&pastakas, tahvel
 
-Mudelid-graafikud: draw.io, tahvel&marker
+Mudelid-graafikud: tahvel&marker
 
 Wireframe: Figma
 
