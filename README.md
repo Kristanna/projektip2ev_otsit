@@ -1,25 +1,13 @@
 # projektip2ev_otsit
 
-# Sisukord
-
-1. [Ajakava planeerimine](#timemanagement)
-2. [Soovitud funktsionaalsus](#features)
-3. [Kasutajad ja rollid](#users)
-4. [User Stories](#userstories)
-5. [Kasutatud tööriistad](#tools)
-6. [Meeskond](#team)
-7. [Lingid](#links)
-
 ## Ajakava planeerimine <a name="timemanagement"></a>
 
 ### Kolmapäev - Mis ja miks?
 
-- 13.30 - Tiimiga kohtumine, tööriistade valimine ja üles seadmine, infosüsteemi valimine
-- 14.00 - Ajakava planeerimine
-- 15.30 - Toote analüüs
-- 16.00 - Homse päeva planeerimine, edasine funktsionaalsuse arutelu
+- Tiimiga kohtumine, tööriistade valimine ja üles seadmine, infosüsteemi valimine
+- Lähteülesande selgitamine
 
-### Neljapäev - Kuidas?
+### Neljapäev
 
 - 9.00 - Hommikukohvi, töö algab, analüüsime kasutajate rolle ja vajadusi
 - 11.00 - Koosolek - kasutajate vajadused jne
@@ -28,7 +16,7 @@
 - 15.00 - Koosolek - kasutuslood
 - 15.30 - teeb wireframegi
 
-### Reede - Lõpulihv
+### Reede
 
 - 9.00 - Hommikukohvi ja koosolek
 - 9.30 - GitLabi seadistamine
@@ -72,13 +60,14 @@
 
 Projektihaldus:  GitHub
 
-Kommunikatsioon: Slack, Microsoft Teams, häälepaelad
+Kommunikatsioon: Slack, Microsoft Teams
 
-Märkmed: GitHub, VS Code, Notes,  paber&pastakas, tahvel
+Märkmed: GitHub, VS Code  paber&pastakas, tahvel
 
 Mudelid-graafikud: tahvel&marker
 
 Wireframe: Figma
+[Figma](https://www.figma.com/file/5p18PmwT7ng2UhtE3hwgiU/OtsIt?node-id=0%3A1&t=jg5suuOq5xi1Nx30-0)<br/>
 
 ## Tiim <a name="team"></a>
 
@@ -86,9 +75,14 @@ Alex Salong
 
 Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi protsessi jaotamist ajaliselt. Tulevikuprojektides oskan analüüsi teostada struktureeritumalt ja seetõttu ka tõhusamalt nii ajalises kui kvalitatiivses mõttes. 
 
-Kristiina Kudritskaja github linkedin
 
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+Kristiina Kudritskaja [github](https://github.com/Kristanna) [linkedin](https://www.linkedin.com/in/kristiina-kudritskaja-a30b4719/)
+
+html, css, js 
+vsc, iterm
+
+Kasutasin: [youtube] (https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+
 
 Liselle Unnam
 
