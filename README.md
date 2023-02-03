@@ -101,7 +101,7 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
 
 Liselle Unnam
 
-Selles projektis õppisin projektihaldustarkvara kasutamist ja analüüsimist, sain ka natuke rohkem oskusi juurde issue-de kirjutamisega.Kasutasin ka mõndasid uusi programme ja lehti millega ma polnud varem tegelenud.
+Selles projektis õppisin projektihaldustarkvara kasutamist ja analüüsimist. Kasutasin ka mõndasid uusi programme ja lehti millega ma polnud varem tegelenud.
 
 Jana Kindlam
 
@@ -109,6 +109,6 @@ Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood j
 
 [Olev Kuris](github.com/olevkuris/)
 
-Õppisin agility meetodit, github desktoppi ja drawio-t. Sain palju teadmisi juurde.
+Õppisin  github bashi ja figmat. Sain palju teadmisi juurde.
 
 
