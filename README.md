@@ -16,7 +16,7 @@
 
 - 13.30 - Tiimiga kohtumine, tööriistade valimine ja üles seadmine, infosüsteemi valimine
 - 14.00 - Ajakava planeerimine
-- 15.30 - Kohtumine kliendiga
+- 15.30 - Toote analüüs
 - 16.00 - Homse päeva planeerimine, edasine funktsionaalsuse arutelu
 
 ### Neljapäev - Kuidas?
@@ -65,16 +65,11 @@
 - Adminina ma tahan kasutajatele õigusi anda ja neid muuta
 - Siis ma saan neid eemaldada kui vaja või õigusi anda
 
-### Haldaja
-- 
 
-
- 
+-  
 
 ### Sisselogitud kasutaja
 
-
-a
 
 
 ## Kasutatud tööriistad <a name="tools"></a>
