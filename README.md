@@ -78,10 +78,10 @@ Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi p
 
 Kristiina Kudritskaja [github](https://github.com/Kristanna) [linkedin](www.linkedin.com/in/kristiina-kudritskaja-a30b4719)
 
-html, css, js 
+html, css, js <br/>
 vsc, iterm
 
-Kasutasin [youtube] (www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+Kasutasin www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
 
 
 Liselle Unnam
