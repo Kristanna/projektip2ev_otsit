@@ -61,12 +61,8 @@
 
 ### Admin
 
-- Olles admin user ma tahan hallata kasutajaid
-- Adminina ma tahan kasutajatele õigusi anda ja neid muuta
-- Siis ma saan neid eemaldada kui vaja või õigusi anda
+### Kasutaja
 
-
--  
 
 ### Sisselogitud kasutaja
 
@@ -100,7 +96,7 @@ Selles projektis õppisin projektihaldustarkvara kasutamist ja analüüsimist. K
 
 Jana Kindlam
 
-Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood ja mis moodi teha issues-i. Õppisin ka kasutama uusi programme mida ma pole enne kasutanud, need tulevad mul kindlasti tulevikus abiks.
+Selles projektis ma õppisin palju uut. Õppisin ka kasutama uusi programme mida ma pole enne kasutanud, need tulevad mul kindlasti tulevikus abiks.
 
 [Olev Kuris](github.com/olevkuris/)
 
