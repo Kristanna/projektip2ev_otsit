@@ -26,12 +26,12 @@
 - 11.45 - Lõuna
 - 12.45 - Kasutuslugude analüüs
 - 15.00 - Koosolek - kasutuslood
-- 15.30 - Karl-M teeb wireframe, teised tegelevad andmemudeliga ja andmebaasi mudeliga
+- 15.30 - teeb wireframegi
 
 ### Reede - Lõpulihv
 
-- 9.00 - Hommikukohvi ja koosolek - andmemudel
-- 9.30 - GitLabi seadistamine, issuede tegemine
+- 9.00 - Hommikukohvi ja koosolek
+- 9.30 - GitLabi seadistamine
 - 11.45 - Lõuna
 - 12.45 - Esitlused
 
@@ -66,43 +66,15 @@
 - Siis ma saan neid eemaldada kui vaja või õigusi anda
 
 ### Haldaja
-- Saan teha samu asju mis töötaja
-- Saan anda ja võtta töötajalt õigused
-- Saan online nõustada töötajaid ja looma võtnud inimesi
+- 
+
 
  
 
 ### Sisselogitud kasutaja
-- Registreeritud kasutajana soovin, et mul oleks lihtne juurdepääs annetustele, et saaksin tasuta asju kinkida
-- Registreeritud kasutajana soovin looma näha, et ei peaks kaugele reisima
-- Registreeritud kasutajana soovin võtta kassi, kuid ma ei saa sinna minna, sest see on kaugel
-- Registreeritud kasutajana soovin looma ära andmist postitada
-- Registreeritud kasutajana soovin postitada foorumitesse
-- Registreeritud kasutajana soovin muuta oma enda postitusi ja kustutada neid
-- Registreeritud kasutajana sooviksin saada loomi jalgida
 
-### Külaline
-* Olles külaline, tahan ma näha loomi, kes on varjupaikades adopteerimiseks vabad
-    * Ma tahan loomi filtreerida liigi, värvi, asukoha, soo jms järgi
-    * Listivaates tahan näha liiki, nime, pilti, asukohta
-    * loomale klikkides tahan näha detailsemat infot, lisapilte, lühikirjeldust
-* Olles külaline, tahan ma näha loomi, kes on kasutajate poolt adopteerimiseks välja pandud
-    * sarnaselt ülaltoodule
-* Olles külaline, tahan ma erinevate varjupaikade kohta infot saada
-    * asukoht, kontaktid
-* Olles külaline, tahan ma erinevatele varjupaikadele annetusi jagada
-    * Olles külaline, tahan ma annetada erinevate kanalite kaudu - pangalingid, tasuline kõne, mTasku, PayPal, Wise, SEPA, krüpto
-* Olles külaline, tahan ma kindlate loomade heaks annetada
-* Olles külaline, tahan ma näha loomatarvetega seonduvaid ostu-müügikuulutusi
-    * foorumilaadne keskkond
-* Olles külaline, tahan ma näha livestreame kassitubadest
-    * Ideaalis mitu erinevat kassituba
-* Olles külaline, tahan ma saada infot loomade adopteerimise kohta
-    * Millised on tingimused adopteerimiseks?
-    * Kuidas näeb välja adopteerimisprotsess?
-    * 
-* Olles külaline, tahan ma näha loomadega seotud postitusi, mida kasutajad või varjupaigad on postitanud
-* Olles külaline, tahan ma infot loomade, annetamise või muu kohta ka sotsiaalvõrgustikes jagada
+
+a
 
 
 ## Kasutatud tööriistad <a name="tools"></a>
