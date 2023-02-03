@@ -76,12 +76,12 @@ Alex Salong
 Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi protsessi jaotamist ajaliselt. Tulevikuprojektides oskan analüüsi teostada struktureeritumalt ja seetõttu ka tõhusamalt nii ajalises kui kvalitatiivses mõttes. 
 
 
-Kristiina Kudritskaja [github](https://github.com/Kristanna) [linkedin](https://www.linkedin.com/in/kristiina-kudritskaja-a30b4719/)
+Kristiina Kudritskaja [github](https://github.com/Kristanna) [linkedin](www.linkedin.com/in/kristiina-kudritskaja-a30b4719)
 
 html, css, js 
 vsc, iterm
 
-Kasutasin: [youtube] (https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+Kasutasin [youtube] (www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
 
 Liselle Unnam
