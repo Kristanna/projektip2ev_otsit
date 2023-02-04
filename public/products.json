@@ -30,5 +30,13 @@
 		"price": "1800",
 		"inventory": "2",
 		"productCode": "D"
+	},
+	{
+		"id": 7,
+		"image": "https://ksd-images.lt/display/aikido/cache/25e61124a79fcd9e3df5cb088a90b59c.jpeg?h=270&op=fit&w=374",
+		"name": "pesumasin",
+		"price": "700",
+		"inventory": "2",
+		"productCode": "C"
 	}
 ]
