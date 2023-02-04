@@ -1,103 +1,84 @@
-# projektip2ev_otsit
-
-## Ajakava planeerimine <a name="timemanagement"></a>
-
-### Kolmapäev - Mis ja miks?
-
-- Tiimiga kohtumine, tööriistade valimine ja üles seadmine, infosüsteemi valimine
-- Lähteülesande selgitamine
-
-### Neljapäev
-
-- 9.00 - Hommikukohvi, töö algab, analüüsime kasutajate rolle ja vajadusi
-- 11.00 - Koosolek - kasutajate vajadused jne
-- 11.45 - Lõuna
-- 12.45 - Kasutuslugude analüüs
-- 15.00 - Koosolek - kasutuslood
-- 15.30 - teeb wireframegi
-
-### Reede
-
-- 9.00 - Hommikukohvi ja koosolek
-- 9.30 - GitLabi seadistamine
-- 11.45 - Lõuna
-- 12.45 - Esitlused
-
-## Soovitud funktsionaalsus <a name="features"></a>
-
-- Võimalik kasutada erinevates kauplustes
-- Aitab leida konkreetse toote kaupluses
-- Aitab leida tootegruppide asukohad
-- 
-- 
-- 
-- 
-- 
-
-## Kasutajad ja rollid <a name="users"></a>
-
-- Leida vajalik kaup üles
-- 
--
--
--
--
+![logo.png](https://github.com/Kristanna/projektip2ev_otsit/blob/master/public/images/logo.png)
+<br/> 
+### Tarkvaraarendajate ja ärikorraldajate ühisprojekt 1.-3.veebruar 2023
+## Projekti eesmärk
+<br/> 
+Töötada välja lahendus poes konkreetse toote üles leidmiseks.
 
 
+## Tiimi liikmed:
+- Liselle _Ä-21_
+- Alex _Ä-21_
+- Jana _TA-21_
+- Olev _TA-21_
+- Kristiina _TA-21_
+<br/>
 
-## User Stories <a name="userstories"></a>
+## Ülesanded
+**1.päev**
+- Meeskonnaga tutvumine
+- Suhtluskanalite loomine
+- Lähteülesande selgitamine, kasutades erinevaid tahvleid
+- Omavahel ülesannete jagamine
+- Logo loomine
+- Alustamine figma, html, css ja js'iga.
 
-### Admin
+<br/>
 
-### Kasutaja
+![.jpg](link)
 
+<br/>
 
-### Sisselogitud kasutaja
-
-
-
-## Kasutatud tööriistad <a name="tools"></a>
-
-Projektihaldus:  GitHub
-
-Kommunikatsioon: Slack, Microsoft Teams
-
-Märkmed: GitHub, VS Code  paber&pastakas, tahvel
-
-Mudelid-graafikud: tahvel&marker
-
-Wireframe: Figma
-[Figma](https://www.figma.com/file/5p18PmwT7ng2UhtE3hwgiU/OtsIt?node-id=0%3A1&t=jg5suuOq5xi1Nx30-0)<br/>
-
-## Tiim <a name="team"></a>
-
-Alex Salong
-
-Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi protsessi jaotamist ajaliselt. Tulevikuprojektides oskan analüüsi teostada struktureeritumalt ja seetõttu ka tõhusamalt nii ajalises kui kvalitatiivses mõttes. 
+**2.päev**
+- Töö hetkeseisu ülevaatamine
+- Logo lõpetamine
+- Jätkamine figmaga
+- Jätkamine html, css, js'iga, juurde json, node, ejs.
 
 
-Kristiina Kudritskaja [github](https://github.com/Kristanna) [linkedin](www.linkedin.com/in/kristiina-kudritskaja-a30b4719)
+**3.päev**
+- Töö hetkeseisu ülevaatamine
+- Pooleliolevate töödega jätkamine
+- Esitluseks valmistumine
+- Esitlusel esitamine, küsimustele vastamine
 
-html, css, js <br/>
-vsc, iterm
+<br/>
 
-Kasutasin www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+[prototüüp figmas](https://www.figma.com/proto/5p18PmwT7ng2UhtE3hwgiU/OtsIt?node-id=26%3A230&scaling=scale-down&page-id=0%3A1&starting-point-node-id=26%3A230&show-proto-sidebar=1)
 
+<br/>
 
-Liselle Unnam
+## Kasutatud tarkvara:
+* **Teams** (suhtluskanal) 
+* **Github** (projekti haldamine)
+* **Visual Studio Code** (programmeerimine)
+* **Figma** (prototüüp)
+* **HTML + CSS + JS** (kasutatud keeled)
+<br/>
 
-Selles projektis õppisin projektihaldustarkvara kasutamist ja analüüsimist. Kasutasin ka mõndasid uusi programme ja lehti millega ma polnud varem tegelenud.
+## Küsimused tiimiliikmetele: 
+1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+    * Liselle -
+    * Alex -
+    * Jana -
+    * Olev -
+    * Kristiina - Ei.
+    
+  
+2. Pehmed oskused, mida õppisin ja endas arendasin.
+    * Liselle -
+    * Alex -
+    * Jana -
+    * Olev -
+    * Kristiina - Võimaluste piires tarkvaraarendajate ja ärikorraldajate erinevate taustadega arvestamine. 
+   
 
-Jana Kindlam
-
-Selles projektis ma õppisin palju uut. Õppisin ka kasutama uusi programme mida ma pole enne kasutanud, need tulevad mul kindlasti tulevikus abiks.
-
-[Olev Kuris](github.com/olevkuris/)
-
-Õppisin Node.js-i  github bashi ja figmat. Sain palju teadmisi juurde.
-
-## Lingid
--
-
+3. Tehnilised oskused, mida õppisin ja endas arendasin.
+    * Liselle - figma
+    * Alex - figma
+    * Jana -
+    * Olev - Õppisin Node.js-i github bashi ja figmat. Sain palju teadmisi juurde.
+    * Kristiina - html, css, js, json, ejs, node.js, iterm, pixelmator pro
+   
 
 
