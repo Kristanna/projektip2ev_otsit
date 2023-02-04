@@ -25,9 +25,7 @@ Töötada välja lahendus poes konkreetse toote üles leidmiseks.
 
 <br/>
 
-![.jpg](link)
-
-<br/>
+![otsit-tahvel.jpg](https://github.com/Kristanna/projektip2ev_otsit/blob/master/public/images/otsit-tahvel.jpg)
 
 **2.päev**
 - Töö hetkeseisu ülevaatamine
@@ -42,11 +40,17 @@ Töötada välja lahendus poes konkreetse toote üles leidmiseks.
 - Esitluseks valmistumine
 - Esitlusel esitamine, küsimustele vastamine
 
+<br/> 
+
+[prototüüp teisel tahvlil](https://github.com/Kristanna/projektip2ev_otsit/blob/master/public/images/Untitled_1954.pdf)
 <br/>
 
-[prototüüp figmas](https://www.figma.com/proto/5p18PmwT7ng2UhtE3hwgiU/OtsIt?node-id=26%3A230&scaling=scale-down&page-id=0%3A1&starting-point-node-id=26%3A230&show-proto-sidebar=1)
-
+[figma töölaud](https://www.figma.com/file/5p18PmwT7ng2UhtE3hwgiU/OtsIt?node-id=0%3A1&t=Rzqbc6IV0AMJVz7T-0)
 <br/>
+
+[prototüüp figmas](https://www.figma.com/proto/5p18PmwT7ng2UhtE3hwgiU/OtsIt?node-id=26%3A230&scaling=scale-down&page-id=0%3A1&starting-point-node-id=26%3A230&show-proto-sidebar=1) <br/>
+
+[suureks abiks olnud YT link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 
 ## Kasutatud tarkvara:
 * **Teams** (suhtluskanal) 
@@ -79,6 +83,7 @@ Töötada välja lahendus poes konkreetse toote üles leidmiseks.
     * Jana -
     * Olev - Õppisin Node.js-i github bashi ja figmat. Sain palju teadmisi juurde.
     * Kristiina - html, css, js, json, ejs, node.js, iterm, pixelmator pro
+     
    
 
 
